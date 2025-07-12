@@ -127,3 +127,8 @@ Justification: Solves trust drop-off by anchoring on known players.
 > Using AI for prompting transformed our campaign messaging from generic to hyper-relevant. By embedding AIDCA and persuasion frameworks, we guided the AI to create industry-specific outreach with signal over fluff. Diagnosing the funnel using message-market fit helped identify key drop-off points, which we corrected using tailored prompts focused on clarity, proof, and CTA strength. The dashboard served not only as a performance tracker but as a strategic guide for leadership to act—be it nurturing MQLs or retargeting stale segments.
 >
 > As a Growth Analyst, I treat AI as a rapid signal engine. My mindset is data-led and hypothesis-driven: test messaging, gather funnel response, refine the prompt, and repeat. This approach helps scale personalization while remaining sharp and efficient—AI becomes a strategist, not a gimmick.
+
+
+“Business is not about leads. It’s about levers.”
+ At DT, you’re not just part of a system — you’re building it.
+ Let’s see if you can design levers that grow organizations and people alike.
